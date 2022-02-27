@@ -1,0 +1,509 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to a certain writing, entituled, Certain doubts and quaere's upon occasion of the late oath and covenant, with desire of satisfaction, for tender conscienced people, to whom it may be exhibited. 5. August. 1643 Imprimatur Joseph Caryl.</title>
+            <author>Hollingworth, Richard, 1607-1656.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86481</idno>
+            <idno type="STC">Wing H2486</idno>
+            <idno type="STC">Thomason E67_5</idno>
+            <idno type="STC">ESTC R8330</idno>
+            <idno type="EEBO-CITATION">99873282</idno>
+            <idno type="PROQUEST">99873282</idno>
+            <idno type="VID">125747</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86481)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125747)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 12:E67[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to a certain writing, entituled, Certain doubts and quaere's upon occasion of the late oath and covenant, with desire of satisfaction, for tender conscienced people, to whom it may be exhibited. 5. August. 1643 Imprimatur Joseph Caryl.</title>
+                  <author>Hollingworth, Richard, 1607-1656.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[4], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Luke Fawne, and are to be sold at the signe of the Parrot in Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643. Sept. 11.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Richard Hollingworth.</note>
+                  <note>Annotation on Thomason copy: "Mr Hollingworth of Lancashire".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Certain doubts and quaeres upon occasion of the late oath and covenant.</term>
+               <term>Solemn League and Covenant (1643).</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125747:1" rendition="simple:additions"/>
+            <p>AN ANSWER TO A CERTAIN WRITING, Entituled, CERTAIN <hi>DO<g ref="char:V">Ʋ</g>BTS</hi> And <hi>Q<g ref="char:V">Ʋ</g>AERE'S</hi> Upon occaſion of the late Oath and Covenant, With deſire of ſatisfaction, for tender Conſcienced People, to whom it may be exhibited.</p>
+            <floatingText type="license" xml:lang="lat" subtype="imprimatur">
+               <body>
+                  <opener>
+                     <dateline>
+                        <date>5. <hi>Auguſt.</hi> 1643.</date>
+                     </dateline>
+                  </opener>
+                  <p>
+                     <hi>Imprimatur</hi>
+                  </p>
+                  <closer>
+                     <signed>Joſeph Caryl.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Luke Fawne,</hi> and are to be ſold at the ſigne of the Parrot in <hi>Pauls</hi> Church-yard. 1643. <hi>Sept.</hi> 11.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:125747:2"/>
+            <pb facs="tcp:125747:2"/>
+            <head>TO THE Right VVorſhipfull And much honoured COLONELLS <hi>Ralph Aſheton,</hi> Eſquires. <hi>Richard Holland,</hi> Eſquires.</head>
+            <p>And the reſt of the Colonells, Commanders, Officers, and Souldiers, in the Countie Palatine of Lancaſter.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:125747:3"/>
+            <pb n="1" facs="tcp:125747:3"/>
+            <head>AN ANSWER to a certain writing, Entituled, Certain <hi>Doubts</hi> and <hi>Quere's</hi> upon occa<g ref="char:EOLhyphen"/>ſion of the late OATH and COVENANT, with deſire of ſatisfaction, for tender conſci<g ref="char:EOLhyphen"/>enced People to whom it may be exhibited.</head>
+            <div n="1" type="question">
+               <head>
+                  <hi>Queſtion</hi> 1.</head>
+               <p>
+                  <seg rend="decorInit">F</seg>Irſt, I doubt how I can ſwear in truth, and judgement, or in truth and knowledge, according to <hi>Jere.</hi> 4.2. For however, the Parliament may to it ſelf, have juſt grounds for what they ſay, yet to me, this is but <hi>T<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>imonium humanum;</hi> and though a man think, or be<g ref="char:EOLhyphen"/>leeve all true that is in this Oath, and in its Preamble aſſerted, yet it is not therefore in an Oath to be avowed or diſavowed, I may in ſome caſes ſwear upon my own knowledge, or <hi>ex testimonio Di<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ino,</hi> but I may not ſwear upon other mens knowledge; As in Logick, <hi>Quod neſcit predicare de eſt in ſecundo adjecto, neſcit predicare de eſt in t<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> adjecto.</hi> So in Divinitie, <hi>Quod neſcit jurare de eſt in ſecundo adject<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, neſcit jurare de <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſt in tertio adjecto.</hi> He that cannot ſwear that this plot was, cannot avow it to be wicked or treacherous.</p>
+               <p>
+                  <hi>Anſw.</hi> It is written in the Law, <hi>The Testimony of two men is true, and by the month of two or three Witneſſes ſhall every word be eſtabliſhed:</hi>
+                  <pb n="4" facs="tcp:125747:4"/>But in this Caſe of the Plot, we have the confeſſion of Maſter <hi>Waller,</hi> and of others; two whereof were executed for their guilt herein<note n="a" place="margin">Chil<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> I am k<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </note>, and the Declaration not of one or two Members in <hi>Guild-Hall, London,</hi> but of both the Houſes to be read in all pariſh Churches and Chappels, and a publike day of thankſgiving appointed for the deliverance from in which though it be but <hi>Testimonium humanum</hi> is ſo convincing, that the disbelief or doubting of the veritie of the Plot, doth lay an imputation either of very great weakneſſe or horrible wickedneſſe on the Houſes, of mocking God and man.</p>
+               <p>The Law of the Land gives ſo much credit to every Court of Re<g ref="char:EOLhyphen"/>cord, That no averrement muſt be taken againſt it, none be admitted to contradict it, or to ſay it is not true, no not the King Himſelf<note n="(b)" place="margin">King<g ref="char:EOLhyphen"/>doms Caſe <hi>p.</hi> 11.</note>; yet we are not required to ſwear that there was ſuch a Plot, or that it was wicked and treach<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rous, but (upon ſuppoſall of the Parliaments aſſertion, and our beli<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> thereof) <hi>that we deteſt and abh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rre it.</hi> May not a man ſwear that he deteſteth the wicked and treacherous deſigne: of the Gun-Powder Treaſon<note n="c" place="margin">Gun Powd<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r Treaſon is fathered on the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uritans.</note>, or the Iriſh Rebell'on<note n="(d)" place="margin">The Kings Commiſſi<g ref="char:EOLhyphen"/>on is pre<g ref="char:EOLhyphen"/>tended for it; there<g ref="char:EOLhyphen"/>fore they ſay it is no Rebellion.</note>, Seeing there is but <hi>Testimonium humanum</hi> for either of them. The People made a Covenant with King <hi>Joaſh</hi> upon <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>hojadah,</hi> that he was the Fings ſonne, (which was but <hi>T<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> humanum,</hi>) 2 <hi>King.</hi> 11.4. and 17. though the Queen cryed Trea<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>, Treaſon, <hi>verſ.</hi> 14. No man may hence forward ſwear, that <hi>he will <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> true and faithf<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll to</hi> Charles <hi>the <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>full King of</hi> England, <hi>or that he reſts <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ully aſſured of His Maje<g ref="char:EOLhyphen"/>ſties Princely t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uth in His Protest<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tions:</hi> Seeing there is but <hi>Testimoni<g ref="char:EOLhyphen"/>um humanum</hi> that there is a King, that His name is <hi>Charles,</hi> that He is the lawfull King; that thoſe Proteſtations are His, that go under His name, for none can ſwear theſe things <hi>ex Testimonio Divino,</hi> and few (if any) can ſwear, all of them of their own knowledge.</p>
+               <p>How can I ſwear in righteouſneſſe as I am commanded, <label type="milestone">
+                     <seg type="milestoneunit">Queſt. </seg>2</label> 
+                  <hi>Hoſea</hi> 4 2. Is it a righteous thing to vow aſſiſtance to every man that taketh this Oath, without limitation of lawfull taking, and lawfull purſuance thereof; but may there not be ſome that will purſue this Oath by lying, ſtealth, murder oppreſſion, &amp;c.</p>
+               <p>The word <hi>(<gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>)</hi> was expreſſed in the Proteſtation, <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> and we are bound by the jud<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ment of Charitie, <hi>Matth.</hi> 7.1. ſo to underſtand it here, even as when the People anſwered <hi>Joſhua, All that thous com<g ref="char:EOLhyphen"/>mand <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſt as, wewi<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>, and whither ſoever, &amp;c. Joſh.</hi> 1.16. And Wives in the forme of marriage do vow to love, honour, and obey their Hus<g ref="char:EOLhyphen"/>bands. No man hath a vocation to any unlawfull thing; he that doth
+<pb n="5" facs="tcp:125747:4"/>unlawfully, <hi>Eatenus</hi> doth not purſue this Oath, though he may think he doth; but I am not bound to aſſiſt every man in whatſoever he thinks he doth in purſuance of the Oath, but in whatſoever he indeed doth in purſuance thereof. They that without warrant of Law do take away Mens Goods, and Lives, and they that countenance and aſſiſt them, are Theeves and Murderers,<note place="margin">Nihil <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ud poteſt Rex quam quod de jure po<g ref="char:EOLhyphen"/>teſt. <hi>Bra<g ref="char:EOLhyphen"/>cton.</hi>
+                  </note> now <hi>Judicium Guriae eſt quaſi Juris dictum,</hi> and in the Courts alone doth the King legally judge, But the Kings word is no warrant. His will no Law whereby to take away the Lives and Goods of our Neighbours, nor will they free a man in <hi>foro civili,</hi> much leſſe in <hi>Divino,</hi> from being Murderers or Theeves.</p>
+               <p>I muſt not forſwear, <hi>Pſal.</hi> 15.4. <label type="milestone">
+                     <seg type="milestoneunit">Queſt. </seg>3</label> Now how can I that have ſworn Alleagiance to the King, and lately proteſted joyntly to maintain the Kings honour, and juſt priviledges of Parliament; how can I with<g ref="char:EOLhyphen"/>out perjury ſwear to this Oath, the Preamble whereof calleth the oppoſite Army a Popiſh Army, and ſaith it is raiſed by the King, and it is for ſubverſion of Religion, Laws, and Licerties, this is ſmall honour; for how can I maintain the Kings Honour, Perſon, and Crown, and fight againſt the Army which is ſaid to be raiſed (not by ill Concomitants) but by the King.</p>
+               <p>The Oath of Alleagiance being intended for Papiſts, <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> and others onely <hi>quatenus</hi> lyable to that infection, is in effect thus much, <hi>I ſwear I will do nothing againſt the King by the Authoritie of the Pope and Sea of Rome</hi> 
+                  <note n="(e)" place="margin">See God and the King Printed by ſpeciall command, <hi>p.</hi> 21. to <hi>the</hi> 30.</note> See more <hi>Page</hi> 8, 9, 10.</p>
+               <p>The Oath of Supremacy was intended to thruſt out the Pope, and to diſcover Papiſts, and not to determine the preſent difference be<g ref="char:EOLhyphen"/>tween the King and Parliament, or the King and Kingdom, for Parlia<g ref="char:EOLhyphen"/>ment is the Kingdom to all intents and purpoſes of Law<note n="(f)" place="margin">Sta<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n<g ref="char:EOLhyphen"/>ta univerſi regni per regem, &amp;c. <hi>Cowell.</hi>
+                  </note>, and it makes the King ſupreme over all perſons, <hi>Rex non habet parem nee ſuperiorem, Bracton,</hi> But not over the Laws, or the Judgements of his Courts, for ſo <hi>Rex habet ſuperiorem, Deum ſcilicet &amp; legem per quam fact us eſt Rex, item Curiam Comitum Baronum, &amp;c. Ibidem.</hi> The Supremacy therefore is not in his perſonall, but in his legall commands, He Himſelf being under the Law, ſubject to the Coercive power of the Law; notwithſtanding any Commiſſion or protection from the King. The King is Supreme in <hi>Eccleſiasticis,</hi> yet He (notwithſtanding that Supremacy) is lyable to Church-Cenſures<note n="(g)" place="margin">
+                     <hi>William</hi> the Con<g ref="char:EOLhyphen"/>queror was excommu<g ref="char:EOLhyphen"/>nicated for breaking his Oath at his Coro<g ref="char:EOLhyphen"/>nation.</note>, at leaſt His Friends, Fa<g ref="char:EOLhyphen"/>vourites, and Agents are; and the King cannot annull or make invalid
+<pb n="6" facs="tcp:125747:5"/>thoſe Cenſures. Neither can He (notwithſtanding His ſupremacy) in Temporalls, make voyd the ſentence or judgement of any Court of Record. Forces raiſ'd by the King may be dangerous and deſtructive to His Perſon. Crown, and Kingdom, and ſo by Law be Rebels and Delinquents, as the forces now raiſed by the King are actually adjudged to be (and the like forces have formerly been ſo judged<note n="(h)" place="margin">
+                     <gap reason="illegible: faint" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <hi>11</hi> 
+                     <gap reason="illegible: faint" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 4.</note> by Parlia<g ref="char:EOLhyphen"/>ment, from whence ly<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s no Appeal, and therefore may and ought to be reſ<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſted; yet this in judgement of law is no reſiſtance of the King, who is never ſuppoſed to do againſt Law, <hi>
+                     <gap reason="illegible: faint" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Rex, quod <gap reason="illegible: faint" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>, quod <gap reason="illegible: faint" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>:</hi> If the King com<g ref="char:EOLhyphen"/>mand. <hi>A. B. C. D.</hi> to take up Arms to kill <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> a Judge of Aſſiſe, or <hi>
+                     <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. G.</hi> Parliament men whil<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt they are doing that Office, and they accordingly kill them, this is high <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, notwithſtanding the Kings command, and the Indi<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>t is found <gap reason="illegible: faint" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.<note n="i" place="margin">
+                     <gap reason="illegible: faint" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> King<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Ca<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e, <gap reason="illegible: faint" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</note> And it is not onely lawfull, but our dutie to our King, (both by Law and our late Proteſtation) to reſiſt ſuch forces ſo raiſed by the King, and to endeavour to bring them to <gap reason="illegible: faint" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>. And they that do ſo reſiſt, do ſtand for the King <gap reason="illegible: faint" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> at the Law and <gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>udgement given <gap reason="illegible: faint" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Kings judgement, though gi<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <gap reason="illegible: faint" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the <gap reason="illegible: faint" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ſtanding thereof, we <gap reason="illegible: faint" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>pacit<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <note n="(k)" place="margin">This diſtinction is w<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ted by <hi>
+                        <gap reason="illegible: faint" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>t<gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſiue, <gap reason="illegible: faint" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> Edward Cook,</hi> and many o<g ref="char:EOLhyphen"/>thers</note>.</p>
+               <p>P<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>erall, in which <gap reason="illegible: faint" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> is ſubject to <gap reason="illegible: faint" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> infir<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>, <gap reason="illegible: faint" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ain of the Law, <gap reason="illegible: faint" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, the <gap reason="illegible: faint" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> and <gap reason="illegible: faint" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, C<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ts of <gap reason="illegible: faint" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>lly in the Parliament.</p>
+               <p>C<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ands and Commiſſion <gap reason="illegible: faint" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the King in His <gap reason="illegible: faint" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>mitis, <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> &amp;. <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ay <gap reason="illegible: faint" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> that proceed from Him in <gap reason="illegible: faint" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Commands and Commiſſi<g ref="char:EOLhyphen"/>o<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <gap reason="illegible: faint" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, are thoſe, when theſe diſagree, for then <gap reason="illegible: faint" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> and they that are <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ly loyall, (that is) legall, <gap reason="illegible: faint" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, th<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n doth a King hate His <gap reason="illegible: faint" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</p>
+               <p>
+                  <gap reason="illegible: faint" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+                  <pb n="5" facs="tcp:125747:5"/>can make a Popiſh Army, then the oppoſite Army is a Popiſh Army. Had it been for the Kings honour to have raiſed thoſe forces, it had been no diſhonour to have them ſpoken off. The Oath and Preamble are (as much as may be in ſuch a Caſe) tender of the Kings honour, for though they ſay it is a Popiſh Army, and that it is raiſed by the King, and that it is for the ſubverſion of Religion, Laws, and Liber<g ref="char:EOLhyphen"/>ties; yet they ſay not that the King doth ſo intend it. His Majeſtie and His forces may have ſeverall ends and ayms; It is no wiſedome to complement away our Religion and Liberties, for if <hi>Salus Reipublicae</hi> be <hi>ſupremalex.</hi> If <hi>Rex</hi> be <hi>propter regnum,</hi> not <hi>regnum propeer regen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, (Fort<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſcue, Aquinas,)</hi> then the honour of the King is no further to beſought, then is ſubſervient to the good of the Kingdom.</p>
+               <p>God. Nature, and the Laws of the Land do allow defenſive Arms to a ſubject againſt illegall and injudiciall violence. The Parliament is not a ſubject, for the King is a part, and in intent of Law preſent,<note n="(m)" place="margin">Maſter <hi>Herles</hi> an<g ref="char:EOLhyphen"/>ſwer to Doctor <hi>Ferne.</hi> I have ſeen cited for proof here<g ref="char:EOLhyphen"/>of <hi>Aſhes</hi> Tables, Errour, 65 to 70.21 <hi>Iac. c</hi> 13 <hi>Ceom<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>tons Iuriſdiction of Courts, f<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> to</hi> 20. <hi>Smiths Common<g ref="char:EOLhyphen"/>wealth, l.</hi> 2. <hi>c</hi> 1, 2 15 <hi>Ed</hi> 3. <hi>c.</hi> 2, 3 of all theſe there are ſund<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y Preſidents. Anſwer to thenin<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>en Propoſiti<g ref="char:EOLhyphen"/>ons.</note> not onely as a Court of Juſtice, but as the higheſt Court, in which there is a Chair of State for His Perſon, and things agitated there, are ſaid to be done <hi>coram Reg<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>;</hi> Neither are the Lords and Commons in Parlia<g ref="char:EOLhyphen"/>ment meerly ſubjects, but are Co-ordinate with His Majeſtie (this being a mixt Monarchy<note n="(l)" place="margin">His Majeſties Anſwer to the ninteen Propoſiti<g ref="char:EOLhyphen"/>ons.</note>, not onely of Supre <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e and ſubordinate Go<g ref="char:EOLhyphen"/>vernours (for ſo the moſt abſolute Monarchies or Tyrannies in the world are mixt) but of three Co-ordinate States) in the Legiſlative power, and truſted with the ultimate and indiſputable power (in Caſe of doubt) of declaring what is Law, of reverſing erroneous Judge<g ref="char:EOLhyphen"/>ments given in Inferiour Courts, of damning illegall Pattents, Mono<g ref="char:EOLhyphen"/>polies, Impoſitions, Exactions, of removing publike grievances, and particular wrongs complained of, of cenſuring and judging Delin<g ref="char:EOLhyphen"/>quents of all ſorts, not onely in the Kings abſence, but againſt His Perſonall Negative Vote or diſaſſent in caſe he be preſent. His Maje<g ref="char:EOLhyphen"/>ſtie ſaith, <hi>That the power legally placed in both Houſes of Parliament is more then ſufficient to prevent and reſtrain the power of Tyranny:</hi> which it cannot be in ſome caſes without reſiſtance of the forces raiſed by the King; without ſuch power of reſiſtance in the hands of the Houſes, all mixture of Government and Limitation of Regall power is vain, for the Government at the will of the Prince, (raiſing a thouſand, or but a hundred, that may not be reſiſted) will reſolve in<g ref="char:EOLhyphen"/>to abſolute Arbitrary, and Tyrannicall Government.</p>
+               <p>Reſiſtance of the forces raiſed by the King, may conſiſt with loy<g ref="char:EOLhyphen"/>altie to His Perſon; for the forces are not the perſon of the King,
+<pb n="6" facs="tcp:125747:6"/>neither is His perſon ubiquitary with His forces; The Law ſuppoſeth not that the King is at any time amongſt Traytors and Delinquents, but as a priſoner, eſpecially in Parliament time, when he is preſumed to be in the Houſe of Lords.</p>
+               <p>The ſafeguard of the Kings Perſon hath been pretended when other things have been intended, <hi>Lancaſhire</hi> men were by warrants called to <hi>Warrington,</hi> to guard His Majeſties Perſon, which came not there, the intent was to gather forces to aſſault <hi>Mancheſter:</hi> A guard for His Majeſties Perſon, was the foundation of the warre againſt the Parlia<g ref="char:EOLhyphen"/>ment. If the Kings Perſon be engaged in any dangerous expedition, more to blame are the Cavaliers, they ſhould ſay, it were better that all they were executed, then that one hair of His head ſhould fall to the ground, 2 <hi>Sam.</hi> 18.3. But if they will needs expoſe His ſacred Perſon to hazard, then we ſay, <hi>To kill or wound the King intentionally and purpoſely, is treaſon,</hi> hatefull to God and all good men, but to wound or kill Him caſually, not onely <hi>praeter</hi> but <hi>contra intentionem;</hi> while we in our own intent and in intent of Law, are (for His pre<g ref="char:EOLhyphen"/>ſervation) proſecuting Rebells and Delinquents, is indeed a croſſe, and an occaſion of ſorrow, but not of ſin to the ſoul of him that doth it<note n="*" place="margin">The King being ſick calls for his Phyſitians to give Him Phy<g ref="char:EOLhyphen"/>ſick, they proceed according to the rules of Art, and ſincetely endeavour His health, if he being perſwaded by ſome do neglect the preſcribed rules of Diet, and ſo the Phy<g ref="char:EOLhyphen"/>ſicked kills in ſtead of curing, the Phyſitians are not guiltie.</note>. In <hi>Juſts</hi> and <hi>Torneaments,</hi> Subjects ſtanding onely on point of honour, have returned Launce for Launce, ſtroke for ſtroke, un<g ref="char:EOLhyphen"/>horſed, diſarmed, and wounded<note n="(n)" place="margin">
+                     <hi>Hall.</hi> 16 <hi>H.</hi> 8.</note>, yea killed<note n="o" place="margin">Anno <hi>1559.</hi> p Anno <hi>1266.</hi>
+                  </note> their Kings without ſuſpition of diſloyaltie. The caſuall killing of King <hi>William Rufus</hi> by the glance of an Arrow, was no treaſon. The fighting againſt the Earl of <hi>Leiceſters</hi> forces (where King <hi>Henry</hi> the third was in perſon, and carried about for the countenance of His Actions) and the re<g ref="char:EOLhyphen"/>ſcuing of Him (though He was wounded unawares in the reſcue) was by Parliament judged, to be loyall and faithfull ſervices. Finally, (to omit what Biſhop <hi>Poinet</hi> ſaith of the power of the great Conſtable of <hi>England.</hi>)</p>
+               <p>
+                  <hi>If the King ſhould come in the head of the Iriſh Rebels (many whereof are already Him,) we may and muſt (with as much tenderneſſe and care of His Majesties Perſon, as will ſtand with diſcharge of our dueties) reſiſt and help to destroy thoſe Robels that are about Him.</hi>
+               </p>
+               <p>In reverence of Parliaments, and in regard of tender conſciences, I deſire theſe things firſt to be cleered, leaſt in taking this Oath we go on Popiſh grounds, in theſe three principalls <hi>(viz.) Of implicite faith, of infallibilitie of Councell, and the Oath ex Officio.</hi> The Papiſts by an implicite faith, <label type="milestone">
+                     <seg type="milestoneunit">Queſt. </seg>4</label> beleeve and ſwear, becauſe their Church ſaith it,
+<pb n="7" facs="tcp:125747:6"/>And why, and how can our Countrey people beleeve, and ſwear, but becauſe the Parliament faith it. The Papiſts think the Popes councell cannot erre, therefore engage their faith to beleeve, and their practiſes to do what <hi>de future</hi> ſhall be determined: I deſire therefore to know the extent of the word <hi>(continued)</hi> will aſſiſt the forces raiſed and <hi>continued</hi> by both Houſes, it ſeemeth to be meant, <hi>do futuro,</hi> elſe <hi>(raiſed)</hi> would have ſerved the expreſſion, thus it may be as large as &amp;c. and ingageth our aſſiſtance to them, without limitation of lawfull con<g ref="char:EOLhyphen"/>tinuance, as if this Army or Parliament-Councell could not erre in ordering the ſame. The Papiſts (as was exclaimed in our Biſhops Courts) have an Oath in their Inquiſition to oblige men, either to ac<g ref="char:EOLhyphen"/>cuſe, or forſwear themſelves; and doth not this Oath oblige men (if conſcious of this that is meant by the Plot) either to accuſe themſelves, which is unnaturall, or forſwear themſelves, which is Diabolicall.</p>
+               <p>The Parliament do publiſh in their Declarations the Reaſons and Grounds of their Votes and Actions, <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> the Equitie as well as the Au<g ref="char:EOLhyphen"/>thoritie of their deciſions; and therefore cannot be ſaid to require an implicite faith. The Judgement of the Parliament is not infallible, but to us it is inevitable; Our Judgements are not in-thralled to be<g ref="char:EOLhyphen"/>leeve what they ſay, but they are bound up and ſuperſeded by theirs; and our intereſts are intruſted with them, and ſubjected to their deciſi<g ref="char:EOLhyphen"/>ons. If His Majeſtie ſhould concurre with the Houſes in a Declara<g ref="char:EOLhyphen"/>tion of the Law, could you not then ſubmit thereunto without con<g ref="char:EOLhyphen"/>tradiction, and reſt therein without further debatement, except you go on Popiſh grounds of implicite faith and infallibilitie? Our hold<g ref="char:EOLhyphen"/>ing the Parliament to be the ſupreme Judicatory (in caſe of the Kings abſence or oppoſition) doth no whit alter the caſe. If any implicite faith, and infallibilitie muſt be placed any where, it is more ſafely pla<g ref="char:EOLhyphen"/>ced in a generall Councell then in the Pope, and conſequently in the Parliament, rather then the King<note n="(q)" place="margin">This compari<g ref="char:EOLhyphen"/>ſon was made by <hi>Acneas Syl<g ref="char:EOLhyphen"/>vius</hi> in the Councell of <hi>Baſil.</hi>
+                  </note>
+               </p>
+               <p>To avoyd <hi>proceſſus in infinitum</hi> (which nature abhorres) there is a power reſting ſome where, which is the ultimate and indiſputable power of expounding the Laws; which power (reſting in the Parlia<g ref="char:EOLhyphen"/>ment) muſt be aſſiſted by all within the juriſdiction of the Court, and not be reſiſted or controuled by any, upon pretence of poſſible or actuall errour in them. If any Court of Record do erre, I am excuſed, yea, juſtified by the Law, if I living within their juriſdiction do ſub<g ref="char:EOLhyphen"/>mit to their ſentence, yea, obey it till it be reverſed; As if <hi>A.</hi> (free from all Felony) be out-lawed for felony (which is but a Declaration
+<pb n="8" facs="tcp:125747:7"/>by and before the Coroners) every ſubject in the Countie is bound ſo farre to credit the ſaid Judgement, as not to receive, releeve and com<g ref="char:EOLhyphen"/>fort, <hi>A,</hi> upon pain of being acceſſary to felony<note n="(r)" place="margin">The Kingdoms Caſe citeth 12 <hi>Ed.</hi> 2. <hi>Coron.</hi> 377. which is cited. 19 <hi>Eliz. dy</hi> 355.</note> And in caſe of At<g ref="char:EOLhyphen"/>tainder by Parliament, though ſuppoſed to be unjuſt; the King Him<g ref="char:EOLhyphen"/>ſelf cannot diſcharge the perſons ſo attainted, but by reverſing it in Parliament<note n="(ſ)" place="margin">1 <hi>Hen.</hi> 7.4.</note> There is no neceſſicie that <hi>(continued)</hi> ſhould be meant <hi>de futuro,</hi> ſeeing but a line or two before, both <hi>(raiſed)</hi> and <hi>(continued)</hi> are ſpoken <hi>de preterito.</hi> But if it be (is I beleeve it is) ſpoken <hi>d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>fu<g ref="char:EOLhyphen"/>ture,</hi> it cannot be ſo large and boundleſſe, as &amp;c. ſeeing the ground of my promiſing aſſiſtance, is the limitation of the Parliaments forces (in my belief) to be for their juſt defence, and the juſt defence of the t<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e Proteſtant Religion, and Libertie of the Subject. If, I ſay, whereas I beleeve, <hi>A. B.</hi> is a Proteſtant, I will aſſiſt him in the maintenance of his Religion, I do not engage my ſelf to maintain Popery in caſe he ſhould turn Papiſt. The King and His Councell and his forces may erre; therefore the Inhabitants of <hi>Cheſter, Shrowsbury,</hi> or any other place which have engaged themſelves by Oath (upon their bele<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f of His Majeſties Proteſtations) to aſſiſt Him and His forces, againſt the forces of <hi>Robert</hi> Earl of <hi>Eſſex,</hi> Sir <hi>William Br<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>reton,</hi> &amp;c. eſpe<g ref="char:EOLhyphen"/>cially <hi>de future,</hi> which is as large as, &amp;c. and without limitation of lawfull, are in this reſpect as guiltie as they that take this Oath.</p>
+               <p>This Oath differs much from the Oath <hi>ex Officio,</hi> (which you ſay is Popiſh) for it is tendered not onely to ſuſpected perſons, nor princi<g ref="char:EOLhyphen"/>pally intended for the finding out of guilt, or the puniſhment of guilty perſons, when found out (though ſuch like Oaths were in uſe, <hi>Num.</hi> 5.19. <hi>Exod.</hi> 21.11. And now in Courts the perſon indicted, doth plead guiltie, or not guiltie; and ſo either detects himſelf, which is unnaturall, or lyes, which is Diabolica<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l.) But to the whole Kingdom to binde them to the deteſtation and non-execution of the ſaid, or the like plot, and to fidelitie for after times, <hi>R. S.</hi> the Author of theſe Q<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aere's doth (I ſuppoſe) refuſe this Oath; yet (I hope) he doth not hereby accuſe himſelf to be conſcious or guiltie of the ſaid Plot.</p>
+               <p>I may not (eſpecially by ſolemne Oath) take Gods name in vain, <label type="milestone">
+                     <seg type="milestoneunit">Queſt. </seg>5</label> nor multiply Oaths to the ſame intent. I took the Proteſtation to preven: the ruine of Parliaments, Kingdom, and true Proteſtant Religion; therefore this preſent Oath, expreſſed to be to the ſame in<g ref="char:EOLhyphen"/>tent, is needleſſe and vain, if not, ſhew the neceſſity of it.</p>
+               <p>You ſay, <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> but you prove not, that the taking of this latter Covenant is a taking of Gods name in vain. You ſee it is more large, plain, par<g ref="char:EOLhyphen"/>ticular,
+<pb n="9" facs="tcp:125747:7"/>then the Proteſtation, and the Proteſtation was not ſufficient to its end, many (notwithſtanding the ſame) revolting from, plotting, and practiſing againſt Religion, Parliament and Kingdom, under pre<g ref="char:EOLhyphen"/>tence of ſtanding for the King.</p>
+               <p>The Jews of old, and Chriſtians of late did often renew their Cove<g ref="char:EOLhyphen"/>nants with God to the ſame intent. <hi>David</hi> and <hi>Jonathan</hi> made a Cove<g ref="char:EOLhyphen"/>nant, and renewed it once, and again to the ſame intent, 1 <hi>Sam.</hi> 18.3. <hi>and</hi> 20.16, 17.23.18. yet did not take Gods name in vain. The Governour of <hi>Christer</hi> hath impoſed ſeverall Oaths upon the Inhabi<g ref="char:EOLhyphen"/>tants of <hi>Chester</hi> to the ſame intent, <hi>(viz.)</hi> the ſecuritie of the Citie, the reſiſtance of the Parliaments forces. It ſeems that they alſo do take the name of God in vain.</p>
+               <p>An Oath ought not to be urged on them, <label type="milestone">
+                     <seg type="milestoneunit">Queſt. </seg>6</label> that ſhall lye in taking the ſame, <hi>Jerc.</hi> 4.2. <hi>Thou ſhalt ſwear in truth.</hi> Now it is more then probable that ſome of the multitude (ſeeing it is preſſed on all the Kingdom) ſhall lye. For when they have told God and the Congregation, that they heartily ſorrow for their ſins, they will tell God a ſolemne lye. Now though we may exhort all men to repent, yet it is queſtionable, whether we may urge them to ſwear, that they repent who do not ſo.</p>
+               <p>By this Argument, Miniſters may not in their own, <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> and the peoples name, ſay, <hi>We are heartily ſorry for theſe our miſdoings; the remembrance, &amp;c.</hi> Nor God-fathers, and God-mothers (eſpecially in the name of the Children,) ſay, <hi>I forſake the devill, &amp;c. I beleeve in God, &amp;c.</hi> Nor Children be taught to ſay, <hi>Our Father.</hi> Nor the Oaths of Supremacy, All agiance, and Proteſtation, nor any other Oath be tendered to the whole Kingdom upon any occaſion; ſeeing it is more then probable that ſome of the Miniſters, and people, are not <hi>heartily ſorry, &amp;c.</hi> Some of the Goſſips do not fotſake the <hi>Divel, &amp;c.</hi> Some of the Chil<g ref="char:EOLhyphen"/>dren have not God to their <hi>Father.</hi> Some Popiſh, treacherous, perju<g ref="char:EOLhyphen"/>red perſons, will in taking the Oaths of Supremacy, &amp;c. Tell God and the World a ſolemnelye.</p>
+               <p>On the ſolemnelyes aſſertorie or permiſſory, or both that were told by the people, <hi>Joſh.</hi> 24. 2 <hi>Chro.</hi> 15. 2 <hi>Chro.</hi> 23. <hi>Neh<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> 9. <hi>&amp;c.</hi> 10. That man is a ſon of <hi>Belial,</hi> which (living in theſe ſad times) is not in ſome meaſure ſorrowfull for his own ſins, and that intends not to en<g ref="char:EOLhyphen"/>deavour the amendment of his own, wayes; ſurely, he is none of the tender conſcienced men, for whoſe ſatisfaction theſe were propound<g ref="char:EOLhyphen"/>ed. The Inhabitants of <hi>Chester</hi> have ſworn, that <hi>they reſt fully aſſured of His Majeſties Princely truth and goodneſſ, &amp;c.</hi> It is well if ſome of
+<pb n="10" facs="tcp:125747:8"/>them to ſave their goods and liberties, <label type="milestone">
+                     <seg type="milestoneunit">Queſt. </seg>7</label> have not told God and the world a ſolemne lye.</p>
+               <p>I deſire to know the extent of thoſe words, <hi>Will according to my power and vocation,</hi> aſſiſt the forces of the Parliament againſt the forces, &amp;c. For it may be ſaid, That he that warreth not in his own perſon; he that ſlyeth at any exigent; he that leaveth his Armour; he that taketh or giveth quarter; he that giveth not all his eſtate immediately to theſe warres, it may be ſaid, That theſe have not done according to their power, and ſo are forſworne; and there is the more reaſon for this queſtion, becauſe ſome have taught, and others have practiſed this for a doctrine, that you may not take or give quarter in theſe warres, An unnaturall and bloody reſolution.</p>
+               <p>When you know the extent of the words <hi>(To the uttermoſt of my power)</hi> in the Oath of Alleagiance, <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> and the Oaths impoſed upon <hi>Cheſter</hi> and <hi>Shrowsbury,</hi> and of the words <hi>(To my power)</hi> in the Proteſtation, and Oath of Supremacy, (the Oaths which you have already taken) Then you will gueſſe at the meaning of the words <hi>(accerding to my power and vocation)</hi> in the Oath now to be taken, where the word vocation limiteth the word power, for no man hath a vocation to any unlawfull or irrationall, any unnaturall or bloody reſolution or action. If any man ſay, or teach, as you intimate ſome do, They have as little abilitie, as they have authoritie to expound the Oath. It may be ſome others do ſo explain it, that any Malignant in the Kingdom may take it, without forſaking his own principles. But, <hi>Inter utrumque via eſt.</hi>
+               </p>
+               <p>An Oath is to be taken when we are thereunto called by lawfull authoritie, <label type="milestone">
+                     <seg type="milestoneunit">Queſt. </seg>8</label> and may be refuſed, when lawfull authoritie prohibiteth the ſame, or exempteth inferiours from the ſame. Now though I queſtion not the Parliaments authoritie in enjoyning this Oath, yet I alſo beleeve that our Kings authoritie is a lawfull authoritie, if not ſu<g ref="char:EOLhyphen"/>preme alſo, who by Proclamation prohibiteth this Oath; And there<g ref="char:EOLhyphen"/>fore I cannot conceive a lawfull calling to this Vow and Covenant, <hi>Num.</hi> 30.5. A woman hath no power to vow that which her father diſavowes, and how then can a ſubject have power to vow that which the King diſavoweth, is not <hi>Rex pater patria?</hi>
+               </p>
+               <p>An Oath may be taken lawfully by private perſons to give ſatisfacti<g ref="char:EOLhyphen"/>on in ſome weightie doubt, though they be not thereunto called by any authoritie at all. 1. <hi>Jonathan</hi> and <hi>Davids</hi> Covenant ſtood firm, though condemned by <hi>Saul,</hi> 1 <hi>Sam.</hi> 22.7, 8. who was the father of one, the father in law of the other, and the King of both. Yea, they afterward
+<pb n="11" facs="tcp:125747:8"/>renewed that Covenant, 1 <hi>Sam.</hi> 23.17, 18. The Kings lawfull autho<g ref="char:EOLhyphen"/>ritie is in His Courts of Juſtice, and His Proclamation for the rever<g ref="char:EOLhyphen"/>ſing of the ſentence and judgement of any Court of Record, eſpecially of the Court of Parliament, which <hi>is His higheſt and honourableſt</hi> Judgement<note n="*" place="margin">
+                     <hi>King</hi> Iames. Baſllicon Doron.</note>, is <hi>ipſo facto null</hi> and voyd; eſpecially when the King is amongſt known and judicially declared Rebels and Delinquents, for then His Proclamations may be judged to be the acts of the ſaid Delin<g ref="char:EOLhyphen"/>quents, over-awing, miſ-informing, or otherwiſe abuſing the King. A King of <hi>England</hi> was once articled againſt, as for other things, as that <hi>Without conſent he had carryed away the Jewels and Plate of the Crown,</hi> and did hold a <hi>fantaſticall opinion, That the Laws of the Realm were in his head, and ſometimes in his breaſt.</hi> So for that <hi>He craftily de<g ref="char:EOLhyphen"/>viſed certain privy Oaths, contrary to the Law, and cauſed His Subjects to be ſworn thereto.</hi> Though this be now ordinarily done, not ſo much by the King, as by the Cavaliers within their Dominions of <hi>Nor<g ref="char:EOLhyphen"/>thumberland, Cumberland, Yorkeſhire, Cheſter, Shrowsbury, &amp;c.</hi> But the authoritie of Parliament was never till of late queſtioned for grea<g ref="char:EOLhyphen"/>ter acts then theſe. The late Proteſtation, which (well underſtood) contained that very thing which you diſlike in this Covenant, <hi>viz.</hi> of reſiſting the forces raiſed by the King in ſome caſes, ſtands good by your own rule, for the King did not publiſh any Proclamation againſt it, <hi>Numb.</hi> 30.4.7.</p>
+               <p>The vehement preſſing of this Oath may prove prejudiciall to the Cauſe, and to the end, <label type="milestone">
+                     <seg type="milestoneunit">Queſt. </seg>9</label> to which it is preſſed for being thus queſtionable for the lawfulneſſe of it, it may make many to eſteem worſe of the Parliament. Diversmen that have aſſiſted the Parliament, will not in likely hood take this Oath, but perhaps hereupon deſert the Cauſe. As for that which ſomeſay, it is vehemently preſſed to the intent to diſ<g ref="char:EOLhyphen"/>cover rotten hearts; I anſwer, it is no ſigne of a rotten heart to fear an oath, nay, rather that is the rotten heart that can diſgeſt ſuch ſo<g ref="char:EOLhyphen"/>lemne Oaths without fear and ſcruple.</p>
+               <p>Theſe and the like quaere's in the hands of common people do not help the matter: <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> Chriſt ſometime ſpake hard ſpeeches, which cauſed many to leave him, <hi>Joh.</hi> 6.1. We had rather have open foes then trea<g ref="char:EOLhyphen"/>cherous friends. I beleeve thoſe hearts are rotten <hi>quantum ad nos &amp; cauſam nostram,</hi> that have no juſter ſcruples then theſe, and yet refuſe this Oath. A man may truely fear an Oath, yet take the Oath of Su<g ref="char:EOLhyphen"/>premacy, Alleagiance, Proteſtation, and this alſo.</p>
+            </div>
+            <div type="questions">
+               <pb n="12" facs="tcp:125747:9"/>
+               <head>Other brief Quaere's, with their Anſwers.</head>
+               <p>IS there any preſident of ſuch an Oath to reſiſt forces raiſed by their <label type="milestone">
+                     <seg type="milestoneunit">Queſt. </seg>1</label> Kin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s?</p>
+               <p>Yes, <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Scottiſh Covenant, judged lawfull by Parliament, and the Union of the Hollanders, which I hope are no Rebels, for the Prince of <hi>Orang</hi> is one. Brieſly, Kingdoms in the like Caſe, do uſually take th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> like courſe to prevent treachery and diviſion.</p>
+               <p>The King and Parliament are here divided, <label type="milestone">
+                     <seg type="milestoneunit">Queſt. </seg>2</label> is not this againſt my Proteſtation?</p>
+               <p>This Covenant doth not diſannull any of our former Oaths and Covenants. <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> The late Plot (the occaſion of this Oath) being rather againſt Religion, Parliament, and Kingdom, then againſt the perſon of the King; therefore the one is mentioned, not the other. Th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Unitie between King and Parliament (in theſe ſad diviſions) cannot be better kept then by cleaving to the Parliament, For the King is legally pre<g ref="char:EOLhyphen"/>ſumed to be in Parliament, not <hi>contra.</hi>
+               </p>
+               <p>The King hath proteſted upon the Sacrament, <label type="milestone">
+                     <seg type="milestoneunit">Queſt. </seg>3</label> that He will maintain the Proteſtant Religion, without connivance at Popery, &amp;c.</p>
+               <p>It is not certain that the King hath ſo proteſted, <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> if he have, and His intentions be reall, yet this layes no Bond on his Succeſſors, muchleſſe on the Queen, the Papiſts and Rebels now in Arms, by whom our Re<g ref="char:EOLhyphen"/>ligion is rather endangered then by the King, which keep not Cove<g ref="char:EOLhyphen"/>nants and Truces that Turks would keep, (for Popiſh principles will admit the taking and breaking of ſolemne Oaths) and have not ſuffered the King to keep his former many ſolemne Proteſtations, ſcarce the ſame day they were made: <hi>Si diſſimulandum, Regnandi cauſa diſſimu<g ref="char:EOLhyphen"/>lardun, qui n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>it diſſimulare, neſcit regnare.</hi> Should Popery and Tyran<g ref="char:EOLhyphen"/>ny be profeſſedly maintained; ſew Proteſtant Subjects would cleave to that partie. If His Majeſtie were from amongſt Delinquents, A<g ref="char:EOLhyphen"/>theiſts, Papiſts, Aliens, He would (I beleeve) keep His Proteſtations, <hi>Prov.</hi> 25 Remove the wicked from about, &amp;c. It is our dutie therefore to reſcue Him out of their h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, that He may keep His Proteſtations.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
